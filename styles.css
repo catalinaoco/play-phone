@@ -1,0 +1,1107 @@
+
+
+
+#box {
+  background-color: gray;
+	width: 65%;
+	height: 30%;
+  border-radius: 30px;
+  position: fixed;
+  top: 22%;
+  left: 20%;
+
+}
+
+.phone {
+  background-color: Blueviolet;
+  width: 80%;
+  height: 80%;
+  border-radius: 50px;
+  position: fixed;
+  top: 19%;
+  left: 12%;
+   z-index: 1000;
+  
+}
+  
+  .phone1 {
+  background-color: whitesmoke;
+  width: 80%;
+  height: 80%;
+  border-radius: 50px;
+  position: fixed;
+  top: 19%;
+  left: 12%;
+   z-index: 1000; 
+}
+
+  .phone3 {
+  background-color: crimson;
+  width: 80%;
+  height: 80%;
+  border-radius: 50px;
+  position: fixed;
+  top: 19%;
+  left: 12%;
+  z-index: 1000; 
+}
+
+
+.phone2 {
+  background-color: Deeppink;
+   width: 80%;
+  height: 80%;
+  border-radius: 50px;
+  position: fixed;
+  top: 18%;
+  left: 10%;
+  
+}
+
+.phone6 {
+  background-color: darkslategrey;
+   width: 80%;
+  height: 80%;
+  border-radius: 50px;
+  position: fixed;
+  top: 18%;
+  left: 10%;
+  
+}
+  
+.phone4 {
+  background-color: slategrey;
+   width: 80%;
+  height: 80%;
+  border-radius: 50px;
+  position: fixed;
+  top: 18%;
+  left: 10%;
+
+  
+}
+
+.tena {
+ background-color: lime;
+  width: 6%;
+  height: 40%;
+  border-radius: 30px;
+  position: fixed;
+  top: 12%;
+  left: 73%;
+  z-index: 1000;
+  
+}
+
+.tena:hover {
+ background-color: lime;
+  width: 6%;
+  height: 40%;
+  border-radius: 30px;
+  position: fixed;
+  top: .5%;
+  left: 73%;
+  z-index: 1000;
+  
+}
+
+
+.tena2 {
+ background-color: navy;
+  width: 6%;
+  height: 40%;
+  border-radius: 30px;
+  position: fixed;
+  top: 12%;
+  left: 73%;
+  z-index: 1000;
+  
+}
+
+.tena2:hover {
+ background-color: navy;
+  width: 6%;
+  height: 40%;
+  border-radius: 30px;
+  position: fixed;
+  top: .5%;
+  left: 73%;
+  z-index: 1000;
+  
+}
+
+.tena2 {
+ background-color: navy;
+  width: 6%;
+  height: 40%;
+  border-radius: 30px;
+  position: fixed;
+  top: 12%;
+  left: 73%;
+  z-index: 1000;
+  
+}
+
+.tena2:hover {
+ background-color: navy;
+  width: 6%;
+  height: 40%;
+  border-radius: 30px;
+  position: fixed;
+  top: .5%;
+  left: 73%;
+  z-index: 1000;
+  
+}
+
+.a {
+   background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 60%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+  
+}
+
+.a2 {
+   background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 60%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.a3 {
+   background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 60%;
+  left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.b {
+   background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 70%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.b2 {
+   background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 70%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.b3 {
+  background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 70%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.c {
+   background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 80%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.c2 {
+   background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 80%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.c3 {
+  background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 80%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.d {
+   background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 90%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.d2 {
+  background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 90%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.d3 {
+  background-color: lime;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 90%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.a:hover{
+  background-color: yellow;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.a2:hover{
+  background-color: yellow;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.a3:hover{
+  background-color: yellow;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.b:hover{
+  background-color: yellow;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.b2:hover{
+  background-color: yellow;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.b3:hover{
+  background-color: yellow;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.c:hover{
+  background-color: yellow;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.c2:hover{
+  background-color: yellow;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.c3:hover{
+  background-color: yellow;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.d:hover{
+  background-color: yellow;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.d2:hover{
+  background-color: yellow;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.d3:hover{
+  background-color: yellow;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.a:active {
+    background-color: Deeppink;
+}
+.a2:active {
+    background-color: Deeppink;
+}
+.a3:active {
+    background-color: Deeppink;
+}
+.b:active {
+    background-color: Deeppink;
+}
+.b2:active {
+    background-color: Deeppink;
+}
+.b3:active {
+    background-color: Deeppink;
+}
+.c:active {
+    background-color: Deeppink;
+}
+.c2:active {
+    background-color: Deeppink;
+}
+.c3:active {
+    background-color: Deeppink;
+}
+.d:active {
+    background-color: Deeppink;
+}
+.d2:active {
+    background-color: Deeppink;
+}
+.d3:active {
+    background-color: Deeppink;
+}
+
+
+button {
+  background-color: Lavender;
+  width: 4%;
+  border-radius: 25px;
+  box-shadow: -6px -4px navy;
+  position:fixed ;
+  top: 27%;
+  left: 13%;
+  padding:.5%
+}
+
+button:active {
+    background-color: Deeppink;
+}
+
+button2 {
+  background-color: Lavender;
+  border-radius: 20px;
+  box-shadow: -6px -4px navy;
+  position:fixed ;
+  top: 35%;
+  left: 13%;
+  font-family: arial;
+  text-align: center;
+  padding:.5%;
+  
+ 
+}
+
+button2:active {
+    background-color: Deeppink;
+  text-align: center;
+  color: pink;
+}
+
+button2 a {
+
+font-size: 12px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  
+}
+
+
+
+
+
+
+
+
+.line {
+background-color: deeppink;
+  width: 4%;
+  height: .5%;
+  transform: rotate(-45deg);
+  border-radius: 20px;
+  position: fixed;
+  right: 0;
+  bottom:4%;
+  animation-name: line;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  
+}
+
+.line2 {
+  background-color: Deeppink;
+  width: 3%;
+  height: .5%;
+  transform: rotate(-45deg);
+  border-radius: 20px;
+  position: fixed;
+  right: 0;
+  bottom:3%;
+  animation-name: line;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  
+}
+
+.line3 {
+background-color: deeppink;
+  width: 2%;
+  height: .5%;
+  transform: rotate(-45deg);
+  border-radius: 20px;
+  position: fixed;
+  right: 0;
+  bottom:2%;
+  animation-name: line;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  
+}
+
+@keyframes line {
+ 0% {
+     background-color: deeppink;
+  }
+  
+  50%{
+    background-color: white;
+  }
+  100%{
+      background-color: deeppink;
+  }
+  
+}
+
+
+
+.e {
+  background-color: Hotpink;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 60%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px purple;
+  transition:background-color 5s;
+  
+}
+
+.e2 {
+   background-color: lightcoral;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 60%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px lightgreen;
+  transition:background-color 5s;
+}
+
+.e3 {
+   background-color: green;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 60%;
+  left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px blue;
+  transition:background-color 5s;
+}
+
+.f {
+   background-color: gold;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 70%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px yellow;
+  transition:background-color 5s;
+}
+
+.f2 {
+   background-color: greenyellow;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 70%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px green;
+  transition:background-color 5s;
+}
+
+.f3 {
+  background-color: tan;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 70%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px black;
+  transition:background-color 5s;
+}
+
+.g {
+   background-color: firebrick;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 80%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px hotpink;
+  transition:background-color 5s;
+}
+
+.g2 {
+   background-color: blue;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 80%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px lightblue;
+  transition:background-color 5s;
+}
+
+.g3 {
+  background-color: purple;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 80%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px pink;
+  transition:background-color 5s;
+}
+
+.h {
+   background-color: #8ca3e8;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 90%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px red;
+  transition:background-color 5s;
+}
+
+.h2 {
+  background-color: yellow;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 90%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px teal;
+  transition:background-color 5s;
+}
+
+.h3 {
+  background-color: darkseagreen;
+  width: 20%;
+  height: 6%;
+  border-radius: 20px;
+  position: fixed;
+  top: 90%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px deepskyblue;
+  transition:background-color 5s;
+}
+
+.e:hover{
+  background-color: white;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.e2:hover{
+  background-color: white;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.e3:hover{
+  background-color: white;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.f:hover{
+  background-color: white;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.f2:hover{
+  background-color: white;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.f3:hover{
+  background-color: white;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.g:hover{
+  background-color: white;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.g2:hover{
+  background-color: white;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.g3:hover{
+  background-color: white;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.h:hover{
+  background-color: white;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.h2:hover{
+background-color: white;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.h3:hover{
+  background-color: white;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.e:active {
+    background-color: slategrey;
+}
+.e2:active {
+    background-color: slategrey;
+}
+.e3:active {
+    background-color: slategrey;
+}
+.f:active {
+    background-color: slategrey;
+}
+.f2:active {
+    background-color: slategrey;
+}
+.f3:active {
+    background-color: slategrey;
+}
+.g:active {
+    background-color: slategrey;
+}
+.g2:active {
+    background-color: slategrey;
+}
+.g3:active {
+    background-color: slategrey;
+}
+.h:active {
+    background-color: slategrey;
+}
+.h2:active {
+    background-color: slategrey;
+}
+.h3:active {
+    background-color: slategrey;
+}
+
+
+
+.i {
+  background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 60%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+  
+}
+
+.i2 {
+   background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 60%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.i3 {
+   background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 60%;
+  left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.j {
+   background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 70%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.j2 {
+   background-color: navy;
+  width: 20%;
+  height: 6%;
+ border-radius: 50%;
+  position: fixed;
+  top: 70%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.j3 {
+  background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 70%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.k {
+   background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 80%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.k2 {
+   background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 80%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.k3 {
+  background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 80%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.l {
+   background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 90%;
+  left: 20%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.l2 {
+  background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 90%;
+  left: 42.5%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.l3 {
+  background-color: navy;
+  width: 20%;
+  height: 6%;
+  border-radius: 50%;
+  position: fixed;
+  top: 90%;
+left: 65%;
+  z-index: 1000;
+  box-shadow: -6px -4px coral;
+  transition:background-color 5s;
+}
+
+.i:hover{
+  background-color: blue;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.i2:hover{
+  background-color: blue;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.i3:hover{
+  background-color: blue;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.j:hover{
+  background-color: blue;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.j2:hover{
+  background-color: blue;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.j3:hover{
+  background-color: blue;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.k:hover{
+  background-color: blue;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.k2:hover{
+  background-color: blue;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.k3:hover{
+  background-color: blue;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.l:hover{
+  background-color: blue;
+ width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.l2:hover{
+  background-color: blue;
+  width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.l3:hover{
+  background-color: blue;
+   width: 20%;
+  height: 6%;
+  transition: all .1s ease-out;
+}
+
+.i:active {
+    background-color: Deeppink;
+}
+.i2:active {
+    background-color: Deeppink;
+}
+.i3:active {
+    background-color: Deeppink;
+}
+.j:active {
+    background-color: Deeppink;
+}
+.j2:active {
+    background-color: Deeppink;
+}
+.j3:active {
+    background-color: Deeppink;
+}
+.k:active {
+    background-color: Deeppink;
+}
+.k2:active {
+    background-color: Deeppink;
+}
+.k3:active {
+    background-color: Deeppink;
+}
+.l:active {
+    background-color: Deeppink;
+}
+.l2:active {
+    background-color: Deeppink;
+}
+.l3:active {
+    background-color: Deeppink;
+}
